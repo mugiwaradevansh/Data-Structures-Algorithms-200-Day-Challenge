@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
@@ -22,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
