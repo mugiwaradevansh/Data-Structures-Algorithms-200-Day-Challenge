@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0485-max-consecutive-ones) |
+| [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
