@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
