@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/0485-max-consecutive-ones) |
 | [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mugiwaradevansh/Data-Structures-Algorithms-200-Day-Challenge/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
